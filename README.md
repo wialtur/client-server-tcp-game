@@ -2,6 +2,7 @@
 
 ## Overview
 A desktop multiplayer game built with C#, WPF, and TCP sockets. The project demonstrates networking, state synchronization, and basic data persistence in a desktop environment.
+
 The application uses TCP sockets and JSON-based message exchange to synchronize gameplay between players. It supports hosting and joining to multiplayer sessions, real-time interaction, and persistent rating storage.
 
 ## Features
