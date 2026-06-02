@@ -99,3 +99,41 @@ This enables rating calculation and persistence across sessions.
 ![Rating](screenshots/05-rating.png)
 
 
+## QA Documentation
+
+This project includes manual QA documentation for testing the C# WPF TCP client-server game.
+
+### QA Artifacts
+
+- [Test Plan](QA/test_plan.md)
+- [Test Cases](QA/test_cases.md)
+- [Bug Reports](QA/bug_reports.md)
+- [Test Run Report](QA/test_run_report.md)
+
+### Testing Summary
+
+Manual testing covered:
+
+- Host and join flow
+- Color selection
+- Ready-state behavior
+- Game start logic
+- Timer-based game ending
+- Disconnect handling
+- Post-game score display
+- Rating update and persistence
+- Negative connection scenarios
+
+### Test Results
+
+| Result | Count |
+|---|---:|
+| Passed | 14 |
+| Failed | 4 |
+| Open Bugs | 4 |
+
+### Main Findings
+
+The main two-player flow works successfully. Players can join a host session, reach color selection, start the game, finish by timer, view scores, show rating, and keep rating data after restart.
+
+The main issues found are related to invalid connection handling and host disconnect behavior.

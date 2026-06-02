@@ -68,6 +68,6 @@ The goal of testing is to verify that the application works correctly in multipl
 - All planned high-priority test cases have been executed
 - Core multiplayer flow works from connection to game completion
 - Rating data is saved correctly
-- No critical or high-severity bugs remain open
 - Failed test cases are documented with bug reports
+- Open high-severity bugs are reviewed before release
 - Test run results are recorded in the test run report
