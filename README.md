@@ -62,15 +62,14 @@ To play the game, both players must be connected to the **same local network**.
 1. One player selects **Host (Server)**  
    - can choose level and enable tournament mode  
 
-2. The second player selects **Client**  
+2. The second player selects **Join**  
    - connects to the session  
 
 3. After connection:
    - both players select their **color**
    - both click **Ready**
 
-4. When both players are ready:
-   - the game starts automatically  
+4. When both players are ready the game starts  
 
 ## Core Functionality
 - Client connection and reconnection
