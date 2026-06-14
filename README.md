@@ -52,9 +52,9 @@ To play the game, both players must be connected to the **same local network**.
   - or use tools like **Hamachi** to simulate a shared network  
 
 ### Connection steps
-1. Ensure both players are in the same network  
-2. Both players enter the same IP address
-3. Start the application on both machines
+1. Start the application on both machines
+2. Ensure both players are in the same network  
+3. Both players enter the same IP address
 4. One player selects **Host** to start the server 
 5. The other player selects **Join** to connect
 
