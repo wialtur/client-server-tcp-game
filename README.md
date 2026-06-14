@@ -53,7 +53,7 @@ To play the game, both players must be connected to the **same local network**.
 
 ### Connection steps
 1. Ensure both players are in the same network  
-2. Both players enter the same IP address (the IP of one of the players)
+2. Both players enter the same IP address
 3. Start the application on both machines
 4. One player selects **Host** to start the server 
 5. The other player selects **Join** to connect
